@@ -7,12 +7,8 @@
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB04n0473-000簡齋詩外集-引.
 <pb:KR4d0155_SBCK_000-1a>¶
-¶
-<pb:KR4d0155_SBCK_000-1b>¶
-<pb:KR4d0155_SBCK_000-1b>¶
-<pb:KR4d0155_SBCK_000-1b>¶
-<pb:KR4d0155_SBCK_000-1b>¶
-<pb:KR4d0155_SBCK_000-1b>¶
+# SB1_1051-004.png
+# page missing
 <pb:KR4d0155_SBCK_000-1b>¶
 簡齋詩集引¶
 詩至老杜極矣東坡蘇公山谷黄公&KR0108;乎數¶
